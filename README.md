@@ -5,7 +5,7 @@ Kak Brainfuck Intepreter
 
 ## Usage
 
-* `kbi <--help>`
+* `kbi --help`
 * `kbi <brainfuck-file>`
 * `make test`
 
